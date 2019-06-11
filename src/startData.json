@@ -1,0 +1,65 @@
+{
+    "schema": {
+        "rows": [
+            {
+                "columns": [
+                    {
+                        "elements": [
+                            {
+                                "type": "text",
+                                "defaultValue": "default text"
+                            }
+                        ]
+                    },
+                    {
+                        "elements": [
+                            {
+                                "type": "text",
+                                "defaultValue": "default text"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "columns": [
+                    {
+                        "elements": [
+                            {
+                                "type": "number",
+                                "defaultValue": "default number"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "columns": [
+                    {
+                        "elements": [
+                            {
+                                "type": "text",
+                                "defaultValue": "default text"
+                            }
+                        ]
+                    },
+                    {
+                        "elements": [
+                            {
+                                "type": "number",
+                                "defaultValue": "default text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "actions": [
+        {
+            "type": "submit",
+            "label": "Save"
+        }
+    ]
+}
+
